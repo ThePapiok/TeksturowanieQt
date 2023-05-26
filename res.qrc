@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/zdj">
+        <file>galio.jpg</file>
+    </qresource>
+</RCC>
